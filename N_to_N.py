@@ -1,6 +1,5 @@
-n=int (input("Ввидите число "))
-a=n
-n=n*(-1)
+a=int (input("Ввидите число "))
+n=a*(-1)
 
 if a>0 and a<10 :
     while n<=a:
