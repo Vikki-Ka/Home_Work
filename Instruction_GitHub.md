@@ -1,1 +1,10 @@
-**Инструкция для работы с GitHub**
+## Инструкция для работы с GitHub
++ Создали акк на GitHub
++ If есть локальный репозиторий, заливаем на GitHub:
++ + Создадим рипозиторий на GitHub Home_Work
++ + Введем команды в локальном репозитории git remote add origin https://github.com/Vikki-Ka/Home_Work.git 
++ + git branch -M main
++ + git push -u origin main - Выгрузим все на GitHub
++ + Проверили все выгрузилось!!!
++ + Сохраним эти изменения и выгрузи на GitHub командой push
+
